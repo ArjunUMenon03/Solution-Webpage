@@ -36,4 +36,18 @@ The webpage itself contains minimal UI elements and primarily instructs the user
 ## Notes
 
 - Make sure the `<script>` tag correctly references the `script.js` file like this:
+<script src="script.js" type="text/javascript"></script>
 
+- The current HTML file contains a syntax error in the script tag which should be fixed as above.
+
+---
+
+## Author
+
+Arjun U Menon
+
+---
+
+## License
+
+This project is for educational and demonstration purposes.
